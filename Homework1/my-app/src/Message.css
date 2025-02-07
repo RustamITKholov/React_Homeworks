@@ -1,0 +1,10 @@
+.content {
+    width: 30%;
+    margin: 100px auto;
+    padding: 100px;
+    border-radius: 20px;
+    color: beige;
+    font-weight: bold;
+    font-size: 50px;
+    background-color: rgb(59, 142, 220);
+}
