@@ -1,0 +1,10 @@
+.fields {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: rgb(108, 103, 103);
+}

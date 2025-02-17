@@ -1,0 +1,16 @@
+.fieldTodo {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 20px;
+}
+
+.card {
+    width: 100%;
+    background-color: rgb(86, 163, 240);
+    border-radius: 10px;
+}
+
+.cardItem {
+    padding: 10px;
+    color: rgb(244, 247, 247);
+}
