@@ -1,0 +1,33 @@
+img {
+    width: 370px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+#root .ligth {
+    background-color: aliceblue;
+    color: rgb(57, 54, 54);
+    min-height: 100vh;
+}
+
+#root .dark {
+    background-color: rgb(49, 52, 54);
+    color: rgb(251, 247, 247);
+    min-height: 100vh;
+}
+
+.dark button {
+    background-color: rgb(49, 52, 54);
+    color: rgb(251, 247, 247);
+}
+
+
+
+.img {
+    display: flex;
+    justify-content: space-around;
+}
